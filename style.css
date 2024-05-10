@@ -54,5 +54,7 @@
         color: blue;
     }
     
-  
+  .both{
+    display: flex;
+  }
     
