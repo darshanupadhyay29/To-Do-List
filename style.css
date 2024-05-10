@@ -45,8 +45,9 @@
     }
     
     .add{
-        background-color:light blue;
+        background-color:rgb(227, 79, 15);
         color: black;
+     margin:3px
     }
     
     .inpt{
